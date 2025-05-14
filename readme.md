@@ -7,3 +7,6 @@ git config --global user.name "i37532"
 
 git config --global user.email 1350181508@qq.com
 ``` 
+
+## 2.publish branch + 设置代理
+- 设置为全局代理
